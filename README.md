@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Website development**
 
-- 📫 How to reach me **andraz.holesek@scv.si**
+- 📫 How to reach me **andraz.holesek@student.um.si**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
